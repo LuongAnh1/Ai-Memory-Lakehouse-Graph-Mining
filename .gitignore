@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Data and lakehouse artifacts
+data/
+datasets/
+bronze/
+silver/
+gold/
+warehouse/
+minio-data/
+neo4j-data/
+*.parquet
+*.csv
+*.jsonl
+*.gz
+*.zip
+*.7z
+*.bson
+
+# Notebooks and reports generated during experiments
+.ipynb_checkpoints/
+reports/generated/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
