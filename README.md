@@ -9,6 +9,7 @@ Phạm vi hiện tại không xây dựng một AI Agent hoàn chỉnh. Lớp Gr
 * [Vấn đề cần giải quyết](docs/Problem.md)
 * [Nguồn dữ liệu](docs/Data-Sources.md)
 * [Nghiệp vụ dự kiến](docs/Business-Domain.md)
+* [Nghiệp vụ harness agent và memory backend](docs/Harness-Agent-Business/README.md)
 * [Kiến trúc dự kiến](docs/Architecture.md)
 * [Graph schema dự kiến](docs/Graph-Schema.md)
 * [Công nghệ sử dụng](docs/Technology-Stack.md)

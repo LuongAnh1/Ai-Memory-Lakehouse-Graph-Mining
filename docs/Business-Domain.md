@@ -1,5 +1,9 @@
 # Nghiệp Vụ Dự Kiến
 
+Ghi chú: tài liệu này mô tả nghiệp vụ dữ liệu mẫu dựa trên Jira/support. Phần
+nghiệp vụ mà memory backend cung cấp cho harness agent được tách riêng tại
+[Harness-Agent-Business/README.md](Harness-Agent-Business/README.md).
+
 ## 1. Nghiệp Vụ Chọn Cho Đồ Án
 
 Nghiệp vụ của đồ án là **nền tảng phân tích dữ liệu issue/ticket tracking cho IT Helpdesk, developer support hoặc AI Support Agent nội bộ doanh nghiệp**.
